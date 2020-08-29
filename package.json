@@ -1,0 +1,29 @@
+{
+  "name": "hexo-file-link-processor",
+  "version": "1.0.0",
+  "description": "processing file link in hexo post",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --outFile index.js src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezksd/hexo-file-link-processor.git"
+  },
+  "keywords": [
+    "hexo",
+    "file-link-processor"
+  ],
+  "author": "ezksd",
+  "devDependencies": {
+    "hexo": "^5.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ezksd/hexo-file-link-processor/issues"
+  },
+  "homepage": "https://github.com/ezksd/hexo-file-link-processor#readme",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  },
+  "license": "MIT"
+}
