@@ -1,6 +1,6 @@
 {
   "name": "hexo-file-link-processor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "processing file link in hexo post",
   "main": "index.js",
   "scripts": {
